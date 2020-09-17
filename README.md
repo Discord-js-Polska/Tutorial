@@ -9,3 +9,5 @@ npm i discord.js@12.0.2
 w pliku .env ustawiamy token oraz prefix
 
 bot działa :D
+
+Invite: https://discord.gg/SQn8288
