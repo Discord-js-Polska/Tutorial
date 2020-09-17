@@ -6,7 +6,7 @@ module.exports = {
     run: async (bot, message, args) => {
 
         const wiadomosc_embed = new Discord.MessageEmbed()
-        .setTitle(`xFizzy nakuka js`)
+        .setTitle(`embed dziala`)
    	
         .setThumbnail(message.author.avatarURL())
         message.channel.send(wiadomosc_embed)
